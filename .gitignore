@@ -1,6 +1,17 @@
+# Local dataset setup script
+setup_data.py
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+
+# Jupyter
 .ipynb_checkpoints/
+
+# OS/editor junk
 .DS_Store
 Thumbs.db
+
+# Temporary files
 *.tmp
